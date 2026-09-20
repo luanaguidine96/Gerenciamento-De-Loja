@@ -1,0 +1,135 @@
+
+body {
+    margin: 0;
+    background-color: #f8f5f0;
+    font-family: Arial, sans-serif;
+    color: #1b2a3a;
+}
+
+.cabecalho {
+    background-image: url("https://i.pinimg.com/1200x/8b/78/e8/8b78e8b4b442eb526ad95ebf772a85c5.jpg");
+
+    background-position: center;
+    padding: 15px ;
+    margin-bottom: 25px;
+    text-align: center;
+border: solid 3px;
+
+}
+
+h1 {
+    color: #0b182c;
+    font-family: Garamond, Georgia, serif;
+    font-size: 42px;
+}
+
+#formProduto {
+    width: 420px;
+
+    margin: 0 auto;
+border: solid 3px;
+    padding: 30px;
+
+    background-color: white;
+    border-radius: 15px;
+
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #26384d;
+}
+
+input {
+    width: 100%;
+
+    box-sizing: border-box;
+
+    padding: 11px;
+
+    margin-bottom: 18px;
+
+    border: 1px solid #b8c1cc;
+
+    border-radius: 8px;
+
+    font-size: 15px;
+
+    outline: none;
+}
+
+input:focus {
+    border-color: #7894b5;
+
+    box-shadow: 0 0 5px rgba(120, 148, 181, 0.4);
+}
+
+button {
+    width: 100%;
+
+    padding: 12px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    background-color: #243b55;
+
+    color: white;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3d5a7a;
+}
+
+#mensagem {
+    text-align: center;
+
+    margin-top: 20px;
+
+    font-weight: bold;
+}
+.pag{
+width: 420px;
+
+    margin: 0 auto;
+border: solid 3px;
+    padding: 30px;
+
+    background-color: white;
+
+    border-radius: 15px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+      align-items: flex-start;
+}
+
+.produto {
+    border: 1px solid #d0d7df;
+    border-radius: 10px;
+    padding: 12px;
+    margin-bottom: 12px;
+    background-color: #f8fafc;
+}
+
+.produto h3 {
+    margin-top: 0;
+    color: #243b55;
+}
+
+.produto p {
+    margin: 5px 0;
+}

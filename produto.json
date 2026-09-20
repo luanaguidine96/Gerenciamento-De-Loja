@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Cafe",
+        "unidade": 10,
+        "preco": 4
+    },
+    {
+        "nome": "Bolo",
+        "unidade": 20,
+        "preco": 12
+    },
+       {
+        "nome": "Torta",
+        "unidade": 18,
+        "preco": 15
+    }
+]
