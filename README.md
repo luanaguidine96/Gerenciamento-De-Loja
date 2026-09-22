@@ -23,3 +23,10 @@ Aplicação web desenvolvida em **Java com Spring Boot** para gerenciamento de p
 ## Sobre o projeto
 
 Projeto desenvolvido para fins de estudo e portfólio, aplicando conceitos de desenvolvimento backend, APIs REST, persistência de dados e integração com frontend.
+---
+22/09/2026
+---
+**Luana Guidine**
+
+Estudante de Desenvolvimento de Sistemas
+Foco em Java, Desenvolvimento Web e Ciência da Computação
